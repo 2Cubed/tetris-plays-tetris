@@ -3,4 +3,4 @@ Heh... Yeah. Tetris. Because Tetris.
 
 ***
 
-Important Note: Currently only works on systems that can utelize `xdotool`. (Ubuntu is one such OS.)
+Important Note: Currently only works on systems that can utelize `xdotool`. (Ubuntu Unity is one such OS.)
