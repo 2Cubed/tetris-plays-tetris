@@ -75,7 +75,7 @@ def on_report(report, conn):
             )
             updates.append(update)
         else:
-            update = progress("TACTILE", joystick.axis, 0)
+            update = progress("TACTILE", tactile.code, 0)
             updates.append(update)
 
     for joystick in report.joystick:
